@@ -1,0 +1,164 @@
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.exe
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.deps.json
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.runtimeconfig.json
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormMenu.resources
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormResultados.resources
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\geolocalizador_de_ip.Properties.Resources.resources
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\refint\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\ref\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.exe
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.deps.json
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.runtimeconfig.json
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\bin\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormMenu.resources
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormResultados.resources
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\geolocalizador_de_ip.Properties.Resources.resources
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\refint\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\Geolocalizador de IP.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Nova pasta\geolocalizador-de-ip\geolocalizador-de-ip\obj\Debug\net6.0-windows\ref\Geolocalizador de IP.dll
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.exe
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.deps.json
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.runtimeconfig.json
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.dll
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.pdb
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.AssemblyReference.cache
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormMenu.resources
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormResultados.resources
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.Properties.Resources.resources
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.GenerateResource.cache
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfoInputs.cache
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfo.cs
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CoreCompileInputs.cache
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.dll
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\refint\Geolocalizador de IP.dll
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.pdb
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.genruntimeconfig.cache
+E:\SENAI (TDS-07)\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\ref\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormMenu.resources
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.FormResultados.resources
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.Properties.Resources.resources
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\refint\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.exe
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.deps.json
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.runtimeconfig.json
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\ref\Geolocalizador de IP.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CopyComplete
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Douglas\Desktop\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.exe
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.deps.json
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.runtimeconfig.json
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.AssemblyReference.cache
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.Properties.Resources.resources
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.GenerateResource.cache
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfoInputs.cache
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfo.cs
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CoreCompileInputs.cache
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CopyComplete
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\refint\Geolocalizador de IP.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\Geolocalizador de IP.genruntimeconfig.cache
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\ref\Geolocalizador de IP.dll
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.FrmMenu.resources
+C:\Projetos de Programação\C#\projeto-geolocalizacao-de-IP\Geolocalizador de IP\Geolocalizador de IP\obj\Debug\net6.0-windows\geolocalizador_de_ip.FrmResultados.resources
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Geolocalizador de IP.exe
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Geolocalizador de IP.deps.json
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Geolocalizador de IP.runtimeconfig.json
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.AssemblyReference.cache
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\geolocalizador_de_ip.FrmMenu.resources
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\geolocalizador_de_ip.FrmResultados.resources
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\geolocalizador_de_ip.Properties.Resources.resources
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.GenerateResource.cache
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfoInputs.cache
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.AssemblyInfo.cs
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CoreCompileInputs.cache
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.csproj.CopyComplete
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.dll
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\refint\Geolocalizador de IP.dll
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.pdb
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\Geolocalizador de IP.genruntimeconfig.cache
+C:\Programas\geolocalizador\Projeto\obj\Debug\net6.0-windows\ref\Geolocalizador de IP.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Programas\geolocalizador\Projeto\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
